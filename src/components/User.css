@@ -1,0 +1,22 @@
+User{
+    text-align: center;
+}
+
+.ma_photo{
+    border-radius: 50%;
+}
+
+.user__infos{
+    text-align: left;
+    padding: var(--spacing-3) 0 var(--spacing-1) 0;
+}
+
+.user__info{
+    display: flex;
+}
+
+.user__info svg{
+    color: varr(--icon-color);
+    margin-right: 1rem;
+}
+
