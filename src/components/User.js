@@ -16,7 +16,7 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
 function User() {
     return (
         <div className='user'>
-            <img src="./images/ma_photo.jpg" alt="" className='ma_photo' />
+            <img src="./images/image.png" alt="" className='ma_photo' />
             <h1 className='user__name'> Mouhamed DIA </h1>
             <p className='profession'> WEB ANALYST</p>
             <div className='user__infos'>
